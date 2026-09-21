@@ -1,11 +1,16 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.19.4",
+  "version": "1.20.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.19.4/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.20.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
-  "previous_names": ["Callback"]
+  "previous_names": [
+    "Callback"
+  ],
+  "notes": [
+    "New jobs and applications to chase, on Guidance's new Today tab"
+  ]
 }
