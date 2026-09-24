@@ -1,18 +1,16 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.23.4",
+  "version": "1.23.5",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.23.4/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.23.5/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Signing in with Google or GitHub can be cancelled, so closing the browser no longer leaves the page stuck",
-    "Remember me: untick it and closing the app signs you out; ticked, your login is offered next time, encrypted on this computer",
-    "The sign-in page shows each launch while you are signed out; Not now skips it"
+    "Mize opens full size straight away"
   ]
 }
