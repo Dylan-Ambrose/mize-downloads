@@ -1,16 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.24.0",
+  "version": "1.24.1",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.24.0/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.24.1/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Choose an Averic accent in Settings, Appearance: it changes the login page and the map, and amber still marks every reply"
+    "An application or job you remove stays removed: it no longer comes back the next time Mize opens",
+    "Choose an Averic accent in Settings, Appearance; amber still marks every reply"
   ]
 }
