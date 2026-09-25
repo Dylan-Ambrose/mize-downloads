@@ -1,18 +1,18 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.24.2",
+  "version": "1.24.3",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.24.2/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.24.3/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "A deleted application stays deleted, even if you close Mize straight after; Undo still brings it back",
-    "An application or job you remove no longer comes back the next time Mize opens",
-    "Choose an Averic accent in Settings, Appearance; amber still marks every reply"
+    "Hovering Mize in the taskbar, or Alt Tab, shows its name and icon",
+    "The banner on Find when jobs could not be rated lines up with the rest of the page",
+    "A deleted application stays deleted, even if you close Mize straight after"
   ]
 }
