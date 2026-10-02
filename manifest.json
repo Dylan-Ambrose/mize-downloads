@@ -1,16 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.27.2",
+  "version": "1.28.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.27.2/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.28.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "The Jobs by Adzuna credit on an open job now sits at the end of the Apply row, so the card is a line shorter"
+    "Your profile picture: the round button beside the window buttons, set in Settings, Account, for every Averic app",
+    "The Mize mark at the top left now opens and closes the sidebar; hover it to see the panel icon"
   ]
 }
