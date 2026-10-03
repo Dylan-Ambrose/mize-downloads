@@ -1,16 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.28.1",
+  "version": "1.28.2",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.28.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.28.2/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Without a picture, your initials now sit on a plain circle, so amber only ever means an employer replied"
+    "Lose your connection and Pro keeps working for seven days after Mize last checked your plan",
+    "Settings, Account and plan shows Offline: Pro until the day it ends"
   ]
 }
