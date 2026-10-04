@@ -1,18 +1,18 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.32.1",
+  "version": "1.32.2",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.32.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.32.2/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
+    "Your Averic sign-in no longer drops when two apps save it at the same moment",
     "Works from the keyboard: Tab reaches every job in your results and Enter opens it",
-    "Settings and the plans take focus when they open, and Escape closes the plans first",
     "In a small window the filters wrap and the job titles stay readable beside an open job"
   ]
 }
