@@ -1,18 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.33.0",
+  "version": "1.33.1",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.33.0/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.33.1/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "AI ratings, CV tailoring and pitches now need you signed in; signed out, your searches still show every job",
-    "Deleting an account that pays for Pro asks whether to cancel the subscription too",
-    "A clearer job map, your student or full-time choice follows your account, and the jobs list fades smoothly at its edges"
+    "The job map shows MapTiler's credit and logo as it should",
+    "Under the hood: the CV editor now runs on the same notes engine as Slate, kept in one place"
   ]
 }
