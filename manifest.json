@@ -1,17 +1,18 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.34.1",
+  "version": "1.35.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.34.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.35.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Deleting your account always goes through Averic's account service, so it is never half done",
-    "Student or Full time, and Starter or Enterprise, follow you to your other computers exactly as you last set them"
+    "When a new Mize is out, a button appears at the foot of the sidebar: click to download, then Restart to update",
+    "Restoring a backup keeps your logged shifts, and jobs not rated yet no longer say 'No experience needed'",
+    "Saved searches check for new jobs every day without using your AI searches; they are rated when you open them"
   ]
 }
