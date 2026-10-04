@@ -1,17 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.29.1",
+  "version": "1.30.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.29.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.30.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Everything in Mize is free, with no limit on applications: the plans screen now says so plainly",
-    "A plan supports Averic and covers every Averic desktop app, paid through a secure Stripe checkout"
+    "The jobs list fades softly at the top and bottom where the window cuts it off, instead of stopping hard",
+    "At either end of the list the first and last jobs show in full"
   ]
 }
