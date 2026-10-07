@@ -1,17 +1,18 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.36.2",
+  "version": "1.37.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.36.2/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.37.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Deleting your account now says Account deleted, clearly, in Settings",
-    "Mize's AI now keeps every answer suitable for 16 and 17 year olds"
+    "Mize opens on Find, and what Home showed now lives in Find and Record",
+    "Report a feedback post that breaks the rules",
+    "An employer that replied is never called a ghost, and pay under about 50p an hour shows as Pay not listed"
   ]
 }
