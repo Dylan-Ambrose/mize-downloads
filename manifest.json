@@ -1,16 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.37.1",
+  "version": "1.38.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.37.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.38.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Under the hood: every comment rewritten in plain English and the code tidied, nothing you can see changed"
+    "Block someone on the feedback board: Block sits beside Report under anyone else's post",
+    "The people you blocked are listed at the bottom of the board, each with Unblock"
   ]
 }
