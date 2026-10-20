@@ -11,7 +11,7 @@
     "Callback"
   ],
   "notes": [
-    "Mize 1.41.0: Apple's squircle corners on every corner of 8px and up, and crash reports that can load",
-    "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
+    "Softer, rounder corners on cards, menus and the search box, the way Apple draws them",
+    "Crash reports now reach us when you have sharing switched on, so a crash gets fixed"
   ]
 }
