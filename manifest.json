@@ -1,17 +1,19 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.41.1",
+  "version": "1.41.2",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.41.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.41.2/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "The softer Apple-style corners now reach every corner in the app, not only the larger ones",
-    "Nothing else changes in this update"
+    "Mize 1.41.2",
+    "The paywall no longer promises cross-device sync.",
+    "The Login button is ink, like every other primary.",
+    "Opened in a browser on a Mac, the window buttons no longer draw as empty boxes."
   ]
 }
