@@ -1,17 +1,19 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.42.0",
+  "version": "1.43.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.42.0/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.43.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Sign in with Apple, beside Google and GitHub on the login page",
-    "The three ways to sign in now sit in one row, so the page no longer scrolls"
+    "Mize 1.43.0",
+    "Job cards warn you about low pay, too many hours and scam signs, and you can hide jobs or whole employers.",
+    "Your You page has a Ready to apply score, a weekly target, the law at your age and your firsts. Reminders tell you when to chase.",
+    "Forgot your password? Mize can now email you a sign-in code."
   ]
 }
