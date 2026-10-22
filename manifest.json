@@ -1,17 +1,18 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.43.1",
+  "version": "1.44.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.43.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.44.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Mize 1.43.1",
-    "An opened job fits the window again on Windows, with no scrollbar in the job card."
+    "Search looks and moves like Mize on iPhone: it shows what it is doing as it searches, with the employers' logos, and the jobs land one after another.",
+    "Clearer job cards, a tidier Sent page with one prompt at a time, and simpler Settings.",
+    "The tabs are now Search and Sent."
   ]
 }
