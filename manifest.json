@@ -1,18 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.47.0",
+  "version": "1.48.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.47.0/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.48.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Search names the limits an advert sets: 18+ and a driving licence show on the row, and jobs that rule you out stay hidden until you ask for them under Also show in the filters.",
-    "Pay not listed now says the least the law lets the job pay at your age.",
-    "An application worth a follow-up tells you what to do: walk in or ring them and ask if the job is still open."
+    "No reply, moving on: close an application nobody answered, from the open application's buttons.",
+    "It files under Moved on at the foot of Sent, never counts as the employer replying, and Still waiting puts it back."
   ]
 }
