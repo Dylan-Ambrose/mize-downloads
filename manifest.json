@@ -1,17 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.48.0",
+  "version": "1.49.1",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.48.0/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.49.1/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "No reply, moving on: close an application nobody answered, from the open application's buttons.",
-    "It files under Moved on at the foot of Sent, never counts as the employer replying, and Still waiting puts it back."
+    "The look the iPhone and Mac already have: a warm near-white page in light, a lifted dark, boxes with a hairline, and your computer's own typeface.",
+    "Buttons and inputs sit at 12 points, and the settings labels read as small capitals over their rows."
   ]
 }
