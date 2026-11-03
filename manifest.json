@@ -1,17 +1,17 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.49.1",
+  "version": "1.49.2",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.49.1/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.49.2/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "The look the iPhone and Mac already have: a warm near-white page in light, a lifted dark, boxes with a hairline, and your computer's own typeface.",
-    "Buttons and inputs sit at 12 points, and the settings labels read as small capitals over their rows."
+    "Sign in with Apple, GitHub or Google from three small blocks under Login",
+    "Forgot password sits beside Remember me, Sign up under the blocks, and Skip waits in the corner"
   ]
 }
