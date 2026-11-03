@@ -1,17 +1,18 @@
 {
   "id": "mize",
   "name": "Mize",
-  "version": "1.49.2",
+  "version": "1.50.0",
   "tag": "Life",
   "description": "Logs every job application and shows which employers actually reply.",
-  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.49.2/Mize-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/mize-downloads/releases/download/v1.50.0/Mize-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Guidance\\Apps\\Mize\\Mize.exe",
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/mize-downloads/main/icon.png",
   "previous_names": [
     "Callback"
   ],
   "notes": [
-    "Sign in with Apple, GitHub or Google from three small blocks under Login",
-    "Forgot password sits beside Remember me, Sign up under the blocks, and Skip waits in the corner"
+    "Mize 1.50.0: interview time on the record",
+    "Put the interview's day and time on an application marked Interview, and see it under where it stands.",
+    "Any other answer, Still waiting or No reply, moving on clears it, and it syncs with the iPhone."
   ]
 }
